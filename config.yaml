@@ -12,6 +12,11 @@ author:
   phone: (999) 999-9999 
   hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET" 
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
 menu:
   main: 
     - identifier: about 
